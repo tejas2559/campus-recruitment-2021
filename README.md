@@ -14,10 +14,10 @@ Note/Comments:
 
 ## Tasks Status:
 
-- Task 1: <SKIPPED>
-- Task 2: <SKIPPED>
-- Task 3: <SKIPPED>
-- Task 4: <DONE>
+- Task 1: <SKIPPED/>
+- Task 2: <SKIPPED/>
+- Task 3: <SKIPPED/>
+- Task 4: <DONE/>
 - Task 5: <SKIPPED/IN-PROGRESS/DONE>
 - Task 6: <SKIPPED/IN-PROGRESS/DONE>
 
